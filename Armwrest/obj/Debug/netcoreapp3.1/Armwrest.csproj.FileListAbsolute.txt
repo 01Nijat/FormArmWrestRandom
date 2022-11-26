@@ -1,0 +1,16 @@
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.exe
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.deps.json
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.runtimeconfig.json
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.runtimeconfig.dev.json
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.dll
+C:\Users\ASUS\source\repos\yaris\Armwrest\bin\Debug\netcoreapp3.1\Armwrest.pdb
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.csproj.AssemblyReference.cache
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.Form1.resources
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.csproj.GenerateResource.cache
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.dll
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.pdb
+C:\Users\ASUS\source\repos\yaris\Armwrest\obj\Debug\netcoreapp3.1\Armwrest.genruntimeconfig.cache

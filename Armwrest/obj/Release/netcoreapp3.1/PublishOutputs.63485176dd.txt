@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\yaris\Armwrest.exe
+C:\Users\ASUS\Desktop\yaris\Armwrest.dll
+C:\Users\ASUS\Desktop\yaris\Armwrest.deps.json
+C:\Users\ASUS\Desktop\yaris\Armwrest.runtimeconfig.json
+C:\Users\ASUS\Desktop\yaris\Armwrest.pdb
