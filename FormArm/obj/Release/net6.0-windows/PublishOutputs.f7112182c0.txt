@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\Armpuskatma\FormArm.exe
+C:\Users\ASUS\Desktop\Armpuskatma\FormArm.dll
+C:\Users\ASUS\Desktop\Armpuskatma\FormArm.deps.json
+C:\Users\ASUS\Desktop\Armpuskatma\FormArm.runtimeconfig.json
+C:\Users\ASUS\Desktop\Armpuskatma\FormArm.pdb

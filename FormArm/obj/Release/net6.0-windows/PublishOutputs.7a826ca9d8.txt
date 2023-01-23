@@ -1,0 +1,5 @@
+C:\Users\ASUS\Desktop\TogrulHekim\FormArm.exe
+C:\Users\ASUS\Desktop\TogrulHekim\FormArm.dll
+C:\Users\ASUS\Desktop\TogrulHekim\FormArm.deps.json
+C:\Users\ASUS\Desktop\TogrulHekim\FormArm.runtimeconfig.json
+C:\Users\ASUS\Desktop\TogrulHekim\FormArm.pdb
